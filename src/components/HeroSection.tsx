@@ -45,23 +45,73 @@ export default function HeroSection() {
         overflow: "hidden",
       }}
     >
-      {/* Background: real chauffeur interior photo */}
+      {/* Background: deep luxury dark gradient */}
       <div
         style={{
           position: "absolute",
           inset: 0,
-          backgroundImage: `url('https://images.unsplash.com/photo-1549317661-bd32c8ce0729?w=1920&q=90&fit=crop&crop=center')`,
-          backgroundSize: "cover",
-          backgroundPosition: "center top",
-          backgroundRepeat: "no-repeat",
+          background: "linear-gradient(160deg, #0d1b2a 0%, #1b2a3b 25%, #162032 50%, #0a1628 75%, #050e1a 100%)",
         }}
       />
-      {/* Gradient overlay - subtle, like original */}
+
+      {/* Subtle radial glow — mimics Blacklane's light-blue hero tint */}
       <div
         style={{
           position: "absolute",
           inset: 0,
-          background: "linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.05) 40%, rgba(0,0,0,0.3) 75%, rgba(0,0,0,0.5) 100%)",
+          background: "radial-gradient(ellipse 90% 70% at 50% 20%, rgba(174,207,243,0.10) 0%, transparent 65%)",
+        }}
+      />
+
+      {/* Abstract road / city lines decoration */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          overflow: "hidden",
+          opacity: 0.07,
+        }}
+      >
+        <svg
+          width="100%"
+          height="100%"
+          viewBox="0 0 1440 900"
+          preserveAspectRatio="xMidYMid slice"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          {/* Perspective road lines */}
+          <line x1="720" y1="900" x2="200" y2="0" stroke="white" strokeWidth="1" />
+          <line x1="720" y1="900" x2="400" y2="0" stroke="white" strokeWidth="1" />
+          <line x1="720" y1="900" x2="600" y2="0" stroke="white" strokeWidth="1" />
+          <line x1="720" y1="900" x2="720" y2="0" stroke="white" strokeWidth="2" />
+          <line x1="720" y1="900" x2="840" y2="0" stroke="white" strokeWidth="1" />
+          <line x1="720" y1="900" x2="1040" y2="0" stroke="white" strokeWidth="1" />
+          <line x1="720" y1="900" x2="1240" y2="0" stroke="white" strokeWidth="1" />
+          {/* Horizontal depth lines */}
+          <line x1="0" y1="600" x2="1440" y2="600" stroke="white" strokeWidth="0.5" />
+          <line x1="0" y1="700" x2="1440" y2="700" stroke="white" strokeWidth="0.5" />
+          <line x1="0" y1="800" x2="1440" y2="800" stroke="white" strokeWidth="0.5" />
+          <line x1="0" y1="500" x2="1440" y2="500" stroke="white" strokeWidth="0.3" />
+          <line x1="0" y1="400" x2="1440" y2="400" stroke="white" strokeWidth="0.3" />
+          {/* City silhouette */}
+          <rect x="50" y="300" width="60" height="300" fill="white" opacity="0.3" />
+          <rect x="130" y="200" width="40" height="400" fill="white" opacity="0.3" />
+          <rect x="190" y="250" width="70" height="350" fill="white" opacity="0.3" />
+          <rect x="1200" y="280" width="60" height="320" fill="white" opacity="0.3" />
+          <rect x="1280" y="180" width="50" height="420" fill="white" opacity="0.3" />
+          <rect x="1350" y="240" width="70" height="360" fill="white" opacity="0.3" />
+        </svg>
+      </div>
+
+      {/* Bottom fade */}
+      <div
+        style={{
+          position: "absolute",
+          bottom: 0,
+          left: 0,
+          right: 0,
+          height: "40%",
+          background: "linear-gradient(to bottom, transparent 0%, rgba(5,14,26,0.6) 100%)",
         }}
       />
 
@@ -98,7 +148,7 @@ export default function HeroSection() {
             background: "#ffffff",
             borderRadius: "16px",
             overflow: "hidden",
-            boxShadow: "0 8px 40px rgba(0,0,0,0.18)",
+            boxShadow: "0 8px 40px rgba(0,0,0,0.4)",
           }}
         >
           {/* Trip type toggle */}
