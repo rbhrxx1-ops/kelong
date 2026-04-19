@@ -81,6 +81,15 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
+
+  /* Blacklane brand colors */
+  --bl-black: #0a0a0a;
+  --bl-dark: #1a1a1a;
+  --bl-blue: #1a56db;
+  --bl-blue-hover: #1d4ed8;
+  --bl-light-blue: #d6e4f0;
+  --bl-cream: #f5f0e8;
+  --bl-gray: #6b7280;
 }
 
 .dark {

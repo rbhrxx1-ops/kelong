@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "The Global Chauffeur Service | Blacklane",
+  description:
+    "Book a professional chauffeur service worldwide. Airport transfers, hourly hire, and city-to-city rides. Safe, reliable, and on time.",
 };
 
 export default function RootLayout({
