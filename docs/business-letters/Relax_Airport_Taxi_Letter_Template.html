@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{信函标题}} - RELAX CAR SERVICE CO. LIMITED.</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+      font-size: 10.5pt;
+      line-height: 1.85;
+      color: #1a1a1a;
+      background: #f4f4f4;
+    }
+
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 18mm 20mm 18mm 22mm;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.12);
+    }
+
+    /* ── Header ── */
+    .letterhead {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      border-bottom: 3px solid #c8102e;
+      padding-bottom: 10px;
+      margin-bottom: 18px;
+    }
+
+    .company-block .company-name {
+      font-size: 15pt;
+      font-weight: 700;
+      color: #c8102e;
+      letter-spacing: 0.5px;
+      line-height: 1.3;
+    }
+
+    .company-block .trade-name {
+      font-size: 10pt;
+      color: #444;
+      font-weight: 500;
+      margin-top: 2px;
+    }
+
+    .company-block .address {
+      font-size: 8.5pt;
+      color: #666;
+      margin-top: 5px;
+      line-height: 1.6;
+    }
+
+    .contact-block {
+      text-align: right;
+      font-size: 8.5pt;
+      color: #555;
+      line-height: 1.8;
+    }
+
+    .contact-block .label {
+      color: #999;
+      font-size: 7.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* ── Meta info ── */
+    .meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 22px;
+      font-size: 9pt;
+      color: #555;
+    }
+
+    .ref-no {
+      background: #f7f7f7;
+      border-left: 3px solid #c8102e;
+      padding: 4px 10px;
+      font-size: 8.5pt;
+      color: #444;
+    }
+
+    .date {
+      font-size: 9pt;
+      color: #444;
+    }
+
+    /* ── Addressee ── */
+    .addressee {
+      margin-bottom: 20px;
+    }
+
+    .addressee .to-label {
+      font-size: 8.5pt;
+      color: #999;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 2px;
+    }
+
+    .addressee .to-name {
+      font-size: 10.5pt;
+      font-weight: 600;
+      color: #1a1a1a;
+    }
+
+    /* ── Subject ── */
+    .subject-bar {
+      background: #c8102e;
+      color: #fff;
+      padding: 8px 14px;
+      font-size: 10.5pt;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+      margin-bottom: 22px;
+      border-radius: 2px;
+    }
+
+    /* ── Salutation ── */
+    .salutation {
+      margin-bottom: 14px;
+      font-size: 10.5pt;
+    }
+
+    /* ── Body ── */
+    .body-text {
+      margin-bottom: 14px;
+      text-align: justify;
+      text-indent: 2em;
+    }
+
+    .section-title {
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #c8102e;
+      margin: 20px 0 8px 0;
+      padding-left: 10px;
+      border-left: 3px solid #c8102e;
+    }
+
+    .section-body {
+      margin-bottom: 10px;
+      text-align: justify;
+      text-indent: 2em;
+    }
+
+    /* ── KPI Table ── */
+    .kpi-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0 16px 0;
+      font-size: 9pt;
+    }
+
+    .kpi-table thead tr {
+      background: #c8102e;
+      color: #fff;
+    }
+
+    .kpi-table thead th {
+      padding: 7px 10px;
+      text-align: left;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+
+    .kpi-table tbody tr:nth-child(odd) {
+      background: #fdf3f4;
+    }
+
+    .kpi-table tbody tr:nth-child(even) {
+      background: #fff;
+    }
+
+    .kpi-table tbody td {
+      padding: 7px 10px;
+      vertical-align: top;
+      border-bottom: 1px solid #eee;
+      line-height: 1.6;
+    }
+
+    .kpi-table tbody td:first-child {
+      font-weight: 600;
+      color: #c8102e;
+      white-space: nowrap;
+    }
+
+    /* ── Numbered list ── */
+    .numbered-list {
+      margin: 8px 0 12px 1.5em;
+      padding: 0;
+    }
+
+    .numbered-list li {
+      margin-bottom: 8px;
+      text-align: justify;
+    }
+
+    .numbered-list li strong {
+      color: #1a1a1a;
+    }
+
+    /* ── Closing ── */
+    .closing {
+      margin-top: 24px;
+      margin-bottom: 10px;
+    }
+
+    .signature-block {
+      margin-top: 32px;
+      padding-top: 16px;
+      border-top: 1px solid #ddd;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .sig-left .sig-name {
+      font-size: 12pt;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .sig-left .sig-title {
+      font-size: 9pt;
+      color: #555;
+      margin-top: 2px;
+    }
+
+    .sig-left .sig-company {
+      font-size: 9pt;
+      color: #c8102e;
+      font-weight: 600;
+      margin-top: 2px;
+    }
+
+    .sig-left .sig-contact {
+      font-size: 8.5pt;
+      color: #666;
+      margin-top: 6px;
+      line-height: 1.7;
+    }
+
+    .sig-right {
+      text-align: right;
+    }
+
+    .sig-right .stamp-placeholder {
+      width: 80px;
+      height: 80px;
+      border: 2px dashed #ddd;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 7.5pt;
+      color: #bbb;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      margin-top: 20px;
+      padding-top: 8px;
+      border-top: 1px solid #eee;
+      font-size: 7.5pt;
+      color: #aaa;
+      text-align: center;
+      letter-spacing: 0.3px;
+    }
+
+    .highlight {
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Letterhead -->
+  <div class="letterhead">
+    <div class="company-block">
+      <div class="company-name">RELAX CAR SERVICE CO. LIMITED.</div>
+      <div class="trade-name">Relax Airport Taxi</div>
+      <div class="address">
+        Room 511, 5/F, Ming Sang Industrial Building<br>
+        19-21 Hing Yip Street, Kwun Tong, Kowloon, Hong Kong
+      </div>
+    </div>
+    <div class="contact-block">
+      <div><span class="label">Tel</span><br>+852 5801 4111</div>
+      <div style="margin-top:6px;"><span class="label">Booking</span><br>booking@airport-taxi.com</div>
+      <div style="margin-top:6px;"><span class="label">Finance</span><br>finance@airport-taxi.com</div>
+    </div>
+  </div>
+
+  <!-- Meta -->
+  <div class="meta-row">
+    <div class="ref-no">Ref. No.: {{信函编号}}</div>
+    <div class="date">日期：{{YYYY年MM月DD日}}</div>
+  </div>
+
+  <!-- Addressee -->
+  <div class="addressee">
+    <div class="to-label">致</div>
+    <div class="to-name">{{收件人名称/团队}}</div>
+  </div>
+
+  <!-- Subject -->
+  <div class="subject-bar">主题：{{信函主题}}</div>
+
+  <!-- Salutation -->
+  <div class="salutation">尊敬的 {{收件人称呼}}：</div>
+  <div class="salutation" style="margin-top:4px;">您好！</div>
+
+  <!-- Body Content Placeholder -->
+  <p class="body-text">
+    {{正文段落 1：引言与背景}}
+  </p>
+  <p class="body-text">
+    {{正文段落 2：核心内容说明}}
+  </p>
+
+  <div class="section-title">一、{{小节标题 1}}</div>
+  <p class="section-body">
+    {{小节内容 1}}
+  </p>
+
+  <div class="section-title">二、{{小节标题 2}}</div>
+  <p class="section-body">
+    {{小节内容 2}}
+  </p>
+
+  <!-- Closing -->
+  <p class="body-text" style="margin-top:18px;">
+    {{结语：期待回复或合作愿景}}
+  </p>
+
+  <div class="closing" style="margin-top:10px;">顺颂商祺！</div>
+
+  <!-- Signature -->
+  <div class="signature-block">
+    <div class="sig-left">
+      <div class="sig-name">金辉振</div>
+      <div class="sig-title">联系人 / Contact Person</div>
+      <div class="sig-company">RELAX CAR SERVICE CO. LIMITED.</div>
+      <div class="sig-company" style="font-size:8.5pt; font-weight:400; color:#555;">Relax Airport Taxi</div>
+      <div class="sig-contact">
+        Tel: +852 5801 4111<br>
+        Email: gf1168@airport-taxi.com<br>
+        Booking: booking@airport-taxi.com<br>
+        Finance: finance@airport-taxi.com
+      </div>
+    </div>
+    <div class="sig-right">
+      <div class="stamp-placeholder">公司<br>盖章处</div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    RELAX CAR SERVICE CO. LIMITED. &nbsp;|&nbsp; Room 511, 5/F, Ming Sang Industrial Building, 19-21 Hing Yip Street, Kwun Tong, Kowloon &nbsp;|&nbsp; +852 5801 4111
+  </div>
+
+</div>
+</body>
+</html>

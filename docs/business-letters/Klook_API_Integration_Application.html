@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Klook API 对接申请函 - RELAX CAR SERVICE CO. LIMITED.</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+      font-size: 10.5pt;
+      line-height: 1.85;
+      color: #1a1a1a;
+      background: #f4f4f4;
+    }
+
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 18mm 20mm 18mm 22mm;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.12);
+    }
+
+    /* ── Header ── */
+    .letterhead {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      border-bottom: 3px solid #c8102e;
+      padding-bottom: 10px;
+      margin-bottom: 18px;
+    }
+
+    .company-block .company-name {
+      font-size: 15pt;
+      font-weight: 700;
+      color: #c8102e;
+      letter-spacing: 0.5px;
+      line-height: 1.3;
+    }
+
+    .company-block .trade-name {
+      font-size: 10pt;
+      color: #444;
+      font-weight: 500;
+      margin-top: 2px;
+    }
+
+    .company-block .address {
+      font-size: 8.5pt;
+      color: #666;
+      margin-top: 5px;
+      line-height: 1.6;
+    }
+
+    .contact-block {
+      text-align: right;
+      font-size: 8.5pt;
+      color: #555;
+      line-height: 1.8;
+    }
+
+    .contact-block .label {
+      color: #999;
+      font-size: 7.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* ── Meta info ── */
+    .meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 22px;
+      font-size: 9pt;
+      color: #555;
+    }
+
+    .ref-no {
+      background: #f7f7f7;
+      border-left: 3px solid #c8102e;
+      padding: 4px 10px;
+      font-size: 8.5pt;
+      color: #444;
+    }
+
+    .date {
+      font-size: 9pt;
+      color: #444;
+    }
+
+    /* ── Addressee ── */
+    .addressee {
+      margin-bottom: 20px;
+    }
+
+    .addressee .to-label {
+      font-size: 8.5pt;
+      color: #999;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 2px;
+    }
+
+    .addressee .to-name {
+      font-size: 10.5pt;
+      font-weight: 600;
+      color: #1a1a1a;
+    }
+
+    /* ── Subject ── */
+    .subject-bar {
+      background: #c8102e;
+      color: #fff;
+      padding: 8px 14px;
+      font-size: 10.5pt;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+      margin-bottom: 22px;
+      border-radius: 2px;
+    }
+
+    /* ── Salutation ── */
+    .salutation {
+      margin-bottom: 14px;
+      font-size: 10.5pt;
+    }
+
+    /* ── Body ── */
+    .body-text {
+      margin-bottom: 14px;
+      text-align: justify;
+      text-indent: 2em;
+    }
+
+    .section-title {
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #c8102e;
+      margin: 20px 0 8px 0;
+      padding-left: 10px;
+      border-left: 3px solid #c8102e;
+    }
+
+    .section-body {
+      margin-bottom: 10px;
+      text-align: justify;
+      text-indent: 2em;
+    }
+
+    /* ── KPI Table ── */
+    .kpi-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0 16px 0;
+      font-size: 9pt;
+    }
+
+    .kpi-table thead tr {
+      background: #c8102e;
+      color: #fff;
+    }
+
+    .kpi-table thead th {
+      padding: 7px 10px;
+      text-align: left;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+
+    .kpi-table tbody tr:nth-child(odd) {
+      background: #fdf3f4;
+    }
+
+    .kpi-table tbody tr:nth-child(even) {
+      background: #fff;
+    }
+
+    .kpi-table tbody td {
+      padding: 7px 10px;
+      vertical-align: top;
+      border-bottom: 1px solid #eee;
+      line-height: 1.6;
+    }
+
+    .kpi-table tbody td:first-child {
+      font-weight: 600;
+      color: #c8102e;
+      white-space: nowrap;
+    }
+
+    /* ── Numbered list ── */
+    .numbered-list {
+      margin: 8px 0 12px 1.5em;
+      padding: 0;
+    }
+
+    .numbered-list li {
+      margin-bottom: 8px;
+      text-align: justify;
+    }
+
+    .numbered-list li strong {
+      color: #1a1a1a;
+    }
+
+    /* ── Closing ── */
+    .closing {
+      margin-top: 24px;
+      margin-bottom: 10px;
+    }
+
+    .signature-block {
+      margin-top: 32px;
+      padding-top: 16px;
+      border-top: 1px solid #ddd;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .sig-left .sig-name {
+      font-size: 12pt;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .sig-left .sig-title {
+      font-size: 9pt;
+      color: #555;
+      margin-top: 2px;
+    }
+
+    .sig-left .sig-company {
+      font-size: 9pt;
+      color: #c8102e;
+      font-weight: 600;
+      margin-top: 2px;
+    }
+
+    .sig-left .sig-contact {
+      font-size: 8.5pt;
+      color: #666;
+      margin-top: 6px;
+      line-height: 1.7;
+    }
+
+    .sig-right {
+      text-align: right;
+    }
+
+    .sig-right .stamp-placeholder {
+      width: 80px;
+      height: 80px;
+      border: 2px dashed #ddd;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 7.5pt;
+      color: #bbb;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      margin-top: 20px;
+      padding-top: 8px;
+      border-top: 1px solid #eee;
+      font-size: 7.5pt;
+      color: #aaa;
+      text-align: center;
+      letter-spacing: 0.3px;
+    }
+
+    .highlight {
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Letterhead -->
+  <div class="letterhead">
+    <div class="company-block">
+      <div class="company-name">RELAX CAR SERVICE CO. LIMITED.</div>
+      <div class="trade-name">Relax Airport Taxi</div>
+      <div class="address">
+        Room 511, 5/F, Ming Sang Industrial Building<br>
+        19-21 Hing Yip Street, Kwun Tong, Kowloon, Hong Kong
+      </div>
+    </div>
+    <div class="contact-block">
+      <div><span class="label">Tel</span><br>+852 5801 4111</div>
+      <div style="margin-top:6px;"><span class="label">Booking</span><br>booking@airport-taxi.com</div>
+      <div style="margin-top:6px;"><span class="label">Finance</span><br>finance@airport-taxi.com</div>
+    </div>
+  </div>
+
+  <!-- Meta -->
+  <div class="meta-row">
+    <div class="ref-no">Ref. No.: RCS-KLOOK-API-2026-001</div>
+    <div class="date">日期：2026年4月21日</div>
+  </div>
+
+  <!-- Addressee -->
+  <div class="addressee">
+    <div class="to-label">致</div>
+    <div class="to-name">Klook 商务合作团队</div>
+  </div>
+
+  <!-- Subject -->
+  <div class="subject-bar">主题：关于申请 Klook 接送机服务 API 对接的商业合作函</div>
+
+  <!-- Salutation -->
+  <div class="salutation">尊敬的 Klook 商务合作团队：</div>
+  <div class="salutation" style="margin-top:4px;">您好！</div>
+
+  <!-- Opening -->
+  <p class="body-text">
+    我们是 <span class="highlight">RELAX CAR SERVICE CO. LIMITED.（Relax Airport Taxi）</span>，公司长期致力于提供高品质、安全可靠的机场接送机服务，在业内积累了丰富的运营经验和良好的用户口碑。在此，我们正式向贵公司提交关于接送机服务 API 对接的合作申请，期望能与 Klook 携手，共同为全球旅客提供更便捷、更优质的出行体验。
+  </p>
+  <p class="body-text">
+    在深入了解了 Klook 平台的全球影响力和对高品质旅游服务的追求后，我们认为双方在业务理念和发展目标上高度契合。为了促成此次合作，我们已经做好了充分的技术准备，以下是我们的核心优势和对接能力说明：
+  </p>
+
+  <!-- Section 1 -->
+  <div class="section-title">一、完备的 API 对接能力，实现分钟级极速接入</div>
+  <p class="section-body">
+    我们深知技术对接的效率对于合作的重要性。目前，我们公司已经具备了完全成熟的 API 对接能力，并开发了<span class="highlight">全量接口</span>。我们的系统架构和接口设计均已根据主流旅游平台的标准进行了优化，<span class="highlight">无需进行任何单独的定制化开发</span>。
+  </p>
+  <p class="section-body">
+    这意味着，在获得贵公司的 API 权限后，我们只需进行简单的配置和联调，即可在<span class="highlight">几分钟内完成对接</span>。这不仅能极大地缩短合作落地的时间，更重要的是，<span class="highlight">完全不会占用 Klook 工程师的宝贵时间</span>，实现零开发成本、零技术负担的无缝接入。
+  </p>
+
+  <!-- Section 2 -->
+  <div class="section-title">二、应对 Klook 最新考核规则——API 对接是达成服务指标的关键</div>
+  <p class="section-body">
+    我们注意到 Klook 最新发布的《商户服务表现 &amp; 司机 App 使用状态》周度报告中，对各项服务指标提出了严格的要求，这些指标直接关系到产品在 Klook 上的搜索排名和流量。<span class="highlight">如果不进行 API 深度对接，仅靠人工操作将极难稳定实现这些高标准指标。</span>通过 API 对接，我们能确保在以下核心指标上完美达标：
+  </p>
+
+  <table class="kpi-table">
+    <thead>
+      <tr>
+        <th>Klook 考核指标</th>
+        <th>不接 API 的痛点</th>
+        <th>API 对接后的解决方案</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>司机指派速度<br>Driver Assign Speed %</td>
+        <td>人工派单响应慢，指派时间严重滞后</td>
+        <td>订单秒级自动接收与智能匹配，彻底消除人工延迟</td>
+      </tr>
+      <tr>
+        <td>司机 App SLA 使用率<br>Driver App SLA Usage %</td>
+        <td>人工更新状态易遗漏，轨迹无法实时同步</td>
+        <td>服务状态与 GPS 轨迹实时回传 Klook，全程 SLA 合规</td>
+      </tr>
+      <tr>
+        <td>紧急履行失败率<br>Urgent Fulfillment Failure %</td>
+        <td>人工管理库存易超售、漏单</td>
+        <td>API 实时同步库存与订单，智能调度确保 24 小时内履约</td>
+      </tr>
+      <tr>
+        <td>负评率<br>Bad Review %</td>
+        <td>信息不同步导致乘客体验差</td>
+        <td>车辆/司机信息精准同步，透明轨迹追踪，从根本上提升体验</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Section 3 -->
+  <div class="section-title">三、稳定可靠的系统架构，严格符合 Klook 服务规范</div>
+  <p class="section-body">
+    为了保障高并发订单的稳定处理，我们投入大量资源打造了企业级的调度与服务系统，具有极高的可用性和稳定性，能够完美承载 Klook 平台的海量订单请求，确保每一次查询、预订和状态更新都能得到快速、准确的响应。我们的服务流程和数据管理完全符合 Klook 对于供应商的各项服务规则和数据安全要求，从订单接收、车辆指派到行程结束，每一个环节都经过了严格的测试和优化。
+  </p>
+  <p class="section-body">
+    尤其值得一提的是，我们的系统已经实现了<span class="highlight">司机实时轨迹上传能力</span>。在服务过程中，系统会实时记录并回传司机的 GPS 坐标，确保行程轨迹的准确性和可追溯性，为 Klook 平台提供实时的服务监控数据，有效处理潜在的服务纠纷。
+  </p>
+
+  <!-- Section 4 -->
+  <div class="section-title">四、完善的调度管理与费用结算体系</div>
+  <p class="section-body">
+    我们的调度系统支持智能订单匹配和多供应商管理，能够根据车型、价格和距离等因素自动分派订单，极大提高了运营效率。同时，我们制定了清晰合理的接送机免费等待规则和超时计费标准，保障了司机权益的同时，也为乘客提供了透明的计费方式。
+  </p>
+
+  <!-- Closing -->
+  <p class="body-text" style="margin-top:18px;">
+    我们非常期待能有机会与 Klook 建立长期的战略合作伙伴关系。我们坚信，通过双方的强强联合，定能为广大旅客带来更加卓越的接送机服务体验，实现互利共赢。如有需要，我们随时准备为您演示我们的系统功能和 API 接口，并提供测试账号供贵公司进行评估。
+  </p>
+  <p class="body-text">期待您的回复！</p>
+
+  <div class="closing" style="margin-top:10px;">顺颂商祺！</div>
+
+  <!-- Signature -->
+  <div class="signature-block">
+    <div class="sig-left">
+      <div class="sig-name">金辉振</div>
+      <div class="sig-title">联系人 / Contact Person</div>
+      <div class="sig-company">RELAX CAR SERVICE CO. LIMITED.</div>
+      <div class="sig-company" style="font-size:8.5pt; font-weight:400; color:#555;">Relax Airport Taxi</div>
+      <div class="sig-contact">
+        Tel: +852 5801 4111<br>
+        Email: gf1168@airport-taxi.com<br>
+        Booking: booking@airport-taxi.com<br>
+        Finance: finance@airport-taxi.com
+      </div>
+    </div>
+    <div class="sig-right">
+      <div class="stamp-placeholder">公司<br>盖章处</div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    RELAX CAR SERVICE CO. LIMITED. &nbsp;|&nbsp; Room 511, 5/F, Ming Sang Industrial Building, 19-21 Hing Yip Street, Kwun Tong, Kowloon &nbsp;|&nbsp; +852 5801 4111
+  </div>
+
+</div>
+</body>
+</html>
