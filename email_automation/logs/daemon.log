@@ -1,0 +1,165 @@
+nohup: ignoring input
+2026-04-22 10:29:44,808 [INFO] 🤖 机场出租车邮件自动处理系统启动
+2026-04-22 10:29:44,809 [INFO]    监控账号: ['lucas@airport-taxi.com', 'booking@airport-taxi.com', 'finance@airport-taxi.com']
+2026-04-22 10:29:44,809 [INFO]    轮询间隔: 300秒
+2026-04-22 10:29:44,809 [INFO] ============================================================
+2026-04-22 10:29:44,809 [INFO] 🚀 开始邮件检查 - 2026-04-22 10:29:44
+2026-04-22 10:29:44,809 [INFO] ============================================================
+2026-04-22 10:29:44,809 [INFO] 🔍 正在检查: lucas@airport-taxi.com
+2026-04-22 10:29:53,732 [INFO]   发现 954 封未读邮件，待处理 904 封
+2026-04-22 10:30:00,876 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:00,885 [INFO]   📧 [MEDIUM] [partner] Klook.com <no-reply@klook.com>
+     主题: [13,Apr-19,Apr][Weekly Report] Merchant Service Performance 
+     摘要: 合作伙伴服务表现及司机应用使用报告
+2026-04-22 10:30:04,424 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:04,425 [INFO]   📧 [LOW] [partner] tourHQ <support@tourhq.com>
+     主题: Keith has requested for a guide in Mount Fuji, Nikkō and Tok
+     摘要: Keith请求富士山等地导游服务
+2026-04-22 10:30:04,425 [INFO]      提取信息: {"passenger_name": "Keith", "pickup_date": "02-Nov-2026", "destination": "Mount Fuji, Nikkō and Tokyo", "pickup_date_end": "13-Nov-2026"}
+2026-04-22 10:30:07,827 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:07,828 [INFO]   📧 [MEDIUM] [finance] Osome <no-reply@osome.com>
+     主题: MOVE GLOBAL Pte. Ltd.: 您收到一条新消息
+     摘要: 等待关于Airwallex授权信的回复
+2026-04-22 10:30:07,829 [INFO]      提取信息: {"passenger_name": "HONGSHENG"}
+2026-04-22 10:30:11,044 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:11,045 [INFO]   📧 [LOW] [general] 外贸营销专家 <mianfei@office.163.com>
+     主题: 展会采购商库已更新，都是精准客户，外贸人速看>>
+     摘要: 推广展会采购商数据库信息
+2026-04-22 10:30:23,374 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:23,375 [INFO]   📧 [LOW] [general] noreply@goodjourney.io <noreply@goodjourney.io>
+     主题: Active Booking: 20260420120002
+     摘要: 关于活跃预订列表的通知
+2026-04-22 10:30:28,326 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:28,327 [INFO]   📧 [LOW] [partner] tourHQ <support@tourhq.com>
+     主题: Michel has requested for a guide in Osaka from 02-Jun-2026 T
+     摘要: Michel请求6月2-3日在大阪导游
+2026-04-22 10:30:28,327 [INFO]      提取信息: {"passenger_name": "Michel", "pickup_location": "Osaka", "pickup_date": "2026-06-02", "destination": "Osaka", "pickup_date_end": "2026-06-03"}
+2026-04-22 10:30:32,699 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:32,700 [INFO]   📧 [LOW] [partner] tourHQ <support@tourhq.com>
+     主题: Faiz has requested for a guide in Tokyo on 17-May-2026
+     摘要: Faiz请求2026年5月17日在东京导游
+2026-04-22 10:30:32,700 [INFO]      提取信息: {"passenger_name": "Faiz", "pickup_date": "17-May-2026", "pickup_location": "Tokyo"}
+2026-04-22 10:30:37,264 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:37,265 [INFO]   📧 [LOW] [partner] tourHQ <support@tourhq.com>
+     主题: Raju has requested for a guide in Tokyo, Kyoto and Osaka fro
+     摘要: 东京、京都、大阪导游机会通知
+2026-04-22 10:30:37,266 [INFO]      提取信息: {"passenger_name": "Raju", "pickup_location": "Tokyo, Kyoto, Osaka", "pickup_date": "15-Oct-2026 to 25-Oct-2026"}
+2026-04-22 10:30:40,428 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:40,429 [INFO]   📧 [MEDIUM] [booking] GetYourGuide <do-not-reply@notification.getyourguide.com>
+     主题: A booking has been canceled - S460918 - GYGLMR4KWMRM
+     摘要: 预订已取消通知
+2026-04-22 10:30:44,390 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:44,391 [INFO]   📧 [LOW] [general] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车租赁费用修改
+2026-04-22 10:30:44,391 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "passenger_count": 29, "package_name": "30-seater (for 29 people + driver)", "duration": "10 hours"}
+2026-04-22 10:30:47,677 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:47,679 [INFO]   📧 [MEDIUM] [review] Trustindex <support@trustindex.io>
+     主题: You've got a new review!
+     摘要: 收到大量新评价，需及时回复
+2026-04-22 10:30:53,536 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:53,537 [INFO]   📧 [LOW] [booking] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车租赁费用修改
+2026-04-22 10:30:53,537 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "21-seater (for 20 people + driver) · Wakayama + Shirahama · 10 hours", "passenger_count": 20}
+2026-04-22 10:30:57,636 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:30:57,637 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 费用修改已确认，含包车信息
+2026-04-22 10:30:57,637 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "10-seater (for 9 people + driver) · Wakayama + Shirahama · 10 hours", "passenger_count": 9}
+2026-04-22 10:31:02,542 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:02,543 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 费用修改已确认，包含包车信息
+2026-04-22 10:31:02,543 [INFO]      提取信息: {"passenger_count": 13, "pickup_location": "Osaka", "destination": "Nara/ Kobe/ Kyoto"}
+2026-04-22 10:31:07,032 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:07,033 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车费用修改
+2026-04-22 10:31:07,033 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Wakayama + Shirahama · 10 hours", "passenger_count": 6}
+2026-04-22 10:31:11,038 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:11,039 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车费用修改
+2026-04-22 10:31:11,039 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "21-seater (for 20 people + driver) · Lake Biwa · 10 hours", "ticket_id": "512068", "activity_id": "15716"}
+2026-04-22 10:31:14,884 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:14,885 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车费用修改
+2026-04-22 10:31:14,886 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "14-seater (for 13 people + driver) · Lake Biwa · 10 hours", "passenger_count": 13}
+2026-04-22 10:31:20,870 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:20,871 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 费用修改已确认，含包车信息
+2026-04-22 10:31:20,871 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "10-seater (for 9 people + driver) · Lake Biwa · 10 hours", "passenger_count": 9}
+2026-04-22 10:31:24,841 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:24,842 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车租赁费用修改
+2026-04-22 10:31:24,842 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Lake Biwa · 10 hours", "passenger_count": 6}
+2026-04-22 10:31:31,064 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:31,065 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车租赁费用修改
+2026-04-22 10:31:31,065 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "passenger_count": "20", "package_name": "21-seater (for 20 people + driver)", "duration": "10 hours"}
+2026-04-22 10:31:38,590 [INFO]   🔄 重新连接 IMAP (20/50)
+2026-04-22 10:31:44,800 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:44,801 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车费用修改
+2026-04-22 10:31:44,801 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Awaji Island · 10 hours", "passenger_count": 6}
+2026-04-22 10:31:50,143 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:50,143 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪租车费用修改
+2026-04-22 10:31:50,144 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Amanohashidate + Funaya · 10 hours", "passenger_count": 6}
+2026-04-22 10:31:55,220 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:55,221 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪租车费用修改
+2026-04-22 10:31:55,221 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Kyoto + Kobe · 10 hours", "passenger_count": 6}
+2026-04-22 10:31:59,442 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:31:59,443 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 费用修改已确认，包含包车信息
+2026-04-22 10:31:59,443 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Kyoto · 10 hours", "passenger_count": 6}
+2026-04-22 10:32:03,722 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:03,723 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 费用修改已确认，含租车服务信息
+2026-04-22 10:32:03,723 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Kyoto + Nara · 10 hours", "passenger_count": 6}
+2026-04-22 10:32:07,478 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:07,479 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 租车费用修改已确认
+2026-04-22 10:32:07,479 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Nara + Mount Yoshin · 10 hours", "passenger_count": 6}
+2026-04-22 10:32:11,784 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:11,785 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 费用修改已确认，包含包车信息
+2026-04-22 10:32:11,786 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "7-seater (for 6 people + driver) · Osaka Downtown · 10 hours", "passenger_count": 6}
+2026-04-22 10:32:18,093 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:18,094 [INFO]   📧 [MEDIUM] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车租赁费用修改
+2026-04-22 10:32:18,094 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "passenger_count": 9, "package_name": "10-seater (for 9 people + driver) · Osaka Downtown · 10 hours"}
+2026-04-22 10:32:22,152 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:22,153 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车租赁费用修改
+2026-04-22 10:32:22,153 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "10-seater (for 9 people + driver) · Nara + Mount Yoshin · 10 hours", "passenger_count": 9}
+2026-04-22 10:32:27,256 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:27,257 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 费用修改已确认，含包车信息
+2026-04-22 10:32:27,257 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "10-seater (for 9 people + driver) · Kyoto + Nara · 10 hours", "passenger_count": 9}
+2026-04-22 10:32:31,492 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:31,493 [INFO]   📧 [LOW] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪租车费用修改
+2026-04-22 10:32:31,493 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "10-seater (for 9 people + driver) · Kyoto · 10 hours", "passenger_count": 9}
+2026-04-22 10:32:35,971 [INFO] HTTP Request: POST https://api.manus.im/api/llm-proxy/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-22 10:32:35,972 [INFO]   📧 [MEDIUM] [finance] Klook.com <merchant@klook.com>
+     主题: Cost modification validated - Osaka Car Rental with Driver t
+     摘要: 确认大阪包车费用修改
+2026-04-22 10:32:35,972 [INFO]      提取信息: {"activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto", "package_name": "10-seater (for 9 people + driver) · Kyoto + Kobe · 10 hours", "passenger_count": 9}

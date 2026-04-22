@@ -1,0 +1,1846 @@
+[
+  {
+    "id": "962",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:14 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "21-seater (for 20 people + driver) · Nara + Mount Yoshin · 10 hours",
+      "passenger_count": 20
+    },
+    "processed_at": "2026-04-22T10:17:23.130969",
+    "replied": false
+  },
+  {
+    "id": "963",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:23 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "passenger_count": 29,
+      "package_name": "30-seater (for 29 people + driver)  · Nara + Mount Yoshin · 10 hours"
+    },
+    "processed_at": "2026-04-22T10:17:27.975067",
+    "replied": false
+  },
+  {
+    "id": "964",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:47 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "30-seater (for 29 people + driver) · Kyoto · 10 hours",
+      "passenger_count": 29
+    },
+    "processed_at": "2026-04-22T10:17:33.199481",
+    "replied": false
+  },
+  {
+    "id": "965",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:53 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:17:37.767591",
+    "replied": false
+  },
+  {
+    "id": "966",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪租车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "30-seater (for 29 people + driver)  · Kyoto + Nara · 10 hours",
+      "passenger_count": 29
+    },
+    "processed_at": "2026-04-22T10:17:42.401826",
+    "replied": false
+  },
+  {
+    "id": "967",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:05 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "21-seater (for 20 people + driver)  · Kyoto + Nara · 10 hours",
+      "passenger_count": 20
+    },
+    "processed_at": "2026-04-22T10:17:47.214151",
+    "replied": false
+  },
+  {
+    "id": "968",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:11 +0000 (UTC)",
+    "category": "partner",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:17:51.574068",
+    "replied": false
+  },
+  {
+    "id": "969",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:40 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "8 Hour Private Car Charter",
+      "unit_name": "7 Seater (Group of 1-6)",
+      "ticket_id": "511877"
+    },
+    "processed_at": "2026-04-22T10:17:55.086763",
+    "replied": false
+  },
+  {
+    "id": "970",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:47 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车服务",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "ticket_id": "511903",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_name": "Child Seat"
+    },
+    "processed_at": "2026-04-22T10:17:58.384581",
+    "replied": false
+  },
+  {
+    "id": "971",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "ticket_id": "511899",
+      "activity_id": "15719",
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_id": "393853",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_id": "828951681854",
+      "unit_name": "14 Seater (Group 1-12)"
+    },
+    "processed_at": "2026-04-22T10:18:02.655937",
+    "replied": false
+  },
+  {
+    "id": "972",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:08 +0000 (UTC)",
+    "category": "general",
+    "priority": "low",
+    "summary": "租车费用修改已确认通知",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "ticket_id": "511894",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_name": "10 Seater (Group of 1-9)"
+    },
+    "processed_at": "2026-04-22T10:18:06.519697",
+    "replied": false
+  },
+  {
+    "id": "973",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:16 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_name": "7 Seater (Group of 1-6)",
+      "ticket_id": "511890"
+    },
+    "processed_at": "2026-04-22T10:18:10.665384",
+    "replied": false
+  },
+  {
+    "id": "974",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:22 +0000 (UTC)",
+    "category": "booking",
+    "priority": "low",
+    "summary": "租车行程费用修改已确认",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "8 Hour Private Car Charter",
+      "unit_name": "10 Seater (Group of 1-9)",
+      "ticket_id": "511882"
+    },
+    "processed_at": "2026-04-22T10:18:15.194306",
+    "replied": false
+  },
+  {
+    "id": "975",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260420180001",
+    "date": "Mon, 20 Apr 2026 18:00:35 +0800 (HKT)",
+    "category": "general",
+    "priority": "low",
+    "summary": "关于活跃预订列表的通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:18:38.116206",
+    "replied": false
+  },
+  {
+    "id": "976",
+    "account": "lucas@airport-taxi.com",
+    "from": "do-not-reply@notification.getyourguide.com",
+    "sender_name": "GetYourGuide",
+    "subject": "Booking - S460918 - GYGRFQRVFBVA",
+    "date": "Mon, 20 Apr 2026 11:57:55 +0000 (UTC)",
+    "category": "booking",
+    "priority": "medium",
+    "summary": "收到来自GetYourGuide的预订确认邮件",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:18:41.530665",
+    "replied": false
+  },
+  {
+    "id": "977",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Rinchen  has requested for a guide in Hong Kong from 20-May-2026 To\r\n 25-May-2026",
+    "date": "Mon, 20 Apr 2026 12:56:12 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Rinchen请求在香港导游服务",
+    "extracted_info": {
+      "passenger_name": "Rinchen",
+      "pickup_date": "20-May-2026",
+      "destination": "Hong Kong",
+      "pickup_date_end": "25-May-2026"
+    },
+    "processed_at": "2026-04-22T10:18:47.247409",
+    "replied": false
+  },
+  {
+    "id": "978",
+    "account": "lucas@airport-taxi.com",
+    "from": "service@mail-vip.cogolinks.com",
+    "sender_name": "CoGoLinks",
+    "subject": "付款成功",
+    "date": "Mon, 20 Apr 2026 21:26:00 +0800 (CST)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "付款成功通知邮件",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:18:51.223136",
+    "replied": false
+  },
+  {
+    "id": "979",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260420230002",
+    "date": "Mon, 20 Apr 2026 23:00:33 +0800 (HKT)",
+    "category": "general",
+    "priority": "low",
+    "summary": "关于活跃预订列表的通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:19:10.876970",
+    "replied": false
+  },
+  {
+    "id": "980",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@trustindex.io",
+    "sender_name": "Trustindex",
+    "subject": "You've got a new review!",
+    "date": "Mon, 20 Apr 2026 16:13:15 +0000",
+    "category": "review",
+    "priority": "low",
+    "summary": "收到新的客户评价通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:19:14.044229",
+    "replied": false
+  },
+  {
+    "id": "981",
+    "account": "lucas@airport-taxi.com",
+    "from": "do-not-reply@notification.getyourguide.com",
+    "sender_name": "GetYourGuide",
+    "subject": "A booking has been canceled - S460918 - GYGLMR4LFYGR",
+    "date": "Mon, 20 Apr 2026 23:12:58 +0000 (UTC)",
+    "category": "booking",
+    "priority": "medium",
+    "summary": "预订已取消通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:19:18.393119",
+    "replied": false
+  },
+  {
+    "id": "982",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260421080001",
+    "date": "Tue, 21 Apr 2026 08:00:28 +0800 (HKT)",
+    "category": "booking",
+    "priority": "low",
+    "summary": "查看当前有效预订列表",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:19:57.095281",
+    "replied": false
+  },
+  {
+    "id": "983",
+    "account": "lucas@airport-taxi.com",
+    "from": "do-not-reply@notification.getyourguide.com",
+    "sender_name": "GetYourGuide",
+    "subject": "Booking - S460918 - GYG9965LZQLL",
+    "date": "Tue, 21 Apr 2026 00:53:52 +0000 (UTC)",
+    "category": "booking",
+    "priority": "low",
+    "summary": "收到来自GetYourGuide的预订确认邮件",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:20:00.954435",
+    "replied": false
+  },
+  {
+    "id": "984",
+    "account": "lucas@airport-taxi.com",
+    "from": "service@mail-vip.cogolinks.com",
+    "sender_name": "CoGoLinks",
+    "subject": "资金入账通知",
+    "date": "Tue, 21 Apr 2026 11:10:00 +0800 (CST)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "收到资金入账通知邮件",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:20:04.791742",
+    "replied": false
+  },
+  {
+    "id": "985",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260421120001",
+    "date": "Tue, 21 Apr 2026 12:00:28 +0800 (HKT)",
+    "category": "booking",
+    "priority": "low",
+    "summary": "查看当前有效预订列表",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:20:30.149973",
+    "replied": false
+  },
+  {
+    "id": "986",
+    "account": "lucas@airport-taxi.com",
+    "from": "sales-management@rezio.io",
+    "sender_name": "The rezio team",
+    "subject": "🎁More Time for Your Guests, Less Time on Work!",
+    "date": "Mon, 20 Apr 2026 21:01:42 -0700 (PDT)",
+    "category": "partner",
+    "priority": "low",
+    "summary": "介绍Rezio智能工具助力业务增长",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:20:34.482986",
+    "replied": false
+  },
+  {
+    "id": "987",
+    "account": "lucas@airport-taxi.com",
+    "from": "do-not-reply@notification.getyourguide.com",
+    "sender_name": "GetYourGuide",
+    "subject": "A booking has been canceled - S460918 - GYG9965LZQLL",
+    "date": "Tue, 21 Apr 2026 04:12:52 +0000 (UTC)",
+    "category": "booking",
+    "priority": "low",
+    "summary": "预订已取消通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:20:38.198885",
+    "replied": false
+  },
+  {
+    "id": "988",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "john has requested for a guide in Linyi and China from 03-May-2026 To\r\n 05-May-2026",
+    "date": "Tue, 21 Apr 2026 04:20:27 +0000",
+    "category": "general",
+    "priority": "low",
+    "summary": "约翰请求5月3日至5日临沂导游",
+    "extracted_info": {
+      "passenger_name": "john",
+      "pickup_date": "03-May-2026",
+      "destination": "Linyi and China",
+      "pickup_date_end": "05-May-2026"
+    },
+    "processed_at": "2026-04-22T10:20:43.741614",
+    "replied": false
+  },
+  {
+    "id": "989",
+    "account": "lucas@airport-taxi.com",
+    "from": "no-reply@osome.com",
+    "sender_name": "Osome",
+    "subject": "MOVE GLOBAL Pte. Ltd.: 您收到一条新消息",
+    "date": "Tue, 21 Apr 2026 05:35:55 +0000 (UTC)",
+    "category": "general",
+    "priority": "low",
+    "summary": "等待关于Airwallex授权函的回复",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:20:49.978391",
+    "replied": true,
+    "reply_sent_at": "2026-04-22T10:21:03.571390"
+  },
+  {
+    "id": "990",
+    "account": "lucas@airport-taxi.com",
+    "from": "no-reply@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Non-Compliant Vehicles",
+    "date": "Tue, 21 Apr 2026 08:18:56 +0000 (UTC)",
+    "category": "partner",
+    "priority": "high",
+    "summary": "存在指派车辆不合规，需重新指派",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:21:08.152317",
+    "replied": true,
+    "reply_sent_at": "2026-04-22T10:21:22.538055"
+  },
+  {
+    "id": "991",
+    "account": "lucas@airport-taxi.com",
+    "from": "mail-magazine@anta.or.jp",
+    "sender_name": "一般社団法人 全国旅行業協会（ANTA ニュースメール）",
+    "subject": "ANTA ニュースメール No.775 2026/04/21 ",
+    "date": "Tue, 21 Apr 2026 18:01:15 +0900 (JST)",
+    "category": "general",
+    "priority": "low",
+    "summary": "ANTA发布旅游安全及培训信息",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:21:28.028788",
+    "replied": false
+  },
+  {
+    "id": "993",
+    "account": "lucas@airport-taxi.com",
+    "from": "adobesign@adobesign.com",
+    "sender_name": "Good Journey Partner via Adobe Acrobat Sign",
+    "subject": "Reminder: Waiting for you to sign SOW Proposal Acceptance - Airport\r\n Taxi - Lucas - CTRIP API 3.0 - March 24 2026",
+    "date": "Tue, 21 Apr 2026 02:57:37 -0700 (PDT)",
+    "category": "partner",
+    "priority": "medium",
+    "summary": "提醒签署机场出租车合作协议",
+    "extracted_info": {
+      "partner_name": "Good Journey Partner",
+      "document": "SOW Proposal Acceptance - Airport Taxi - Lucas - CTRIP API 3.0",
+      "due_date": "March 24 2026"
+    },
+    "processed_at": "2026-04-22T10:21:39.901264",
+    "replied": false
+  },
+  {
+    "id": "994",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260421180001",
+    "date": "Tue, 21 Apr 2026 18:00:31 +0800 (HKT)",
+    "category": "general",
+    "priority": "low",
+    "summary": "关于活跃预订列表的通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:21:59.586813",
+    "replied": false
+  },
+  {
+    "id": "995",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@trustindex.io",
+    "sender_name": "Trustindex",
+    "subject": "You've got a new review!",
+    "date": "Tue, 21 Apr 2026 10:13:30 +0000",
+    "category": "review",
+    "priority": "medium",
+    "summary": "收到72条新评价，含低评分提醒",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:22:02.975059",
+    "replied": false
+  },
+  {
+    "id": "996",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Charlie has requested for a guide in Hong Kong from 22-May-2026 To 24-May-2026",
+    "date": "Tue, 21 Apr 2026 12:37:03 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "香港导游请求，日期22-24五月",
+    "extracted_info": {
+      "passenger_name": "Charlie",
+      "pickup_location": "Hong Kong",
+      "pickup_date": "22-May-2026 to 24-May-2026"
+    },
+    "processed_at": "2026-04-22T10:22:09.229110",
+    "replied": false
+  },
+  {
+    "id": "999",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260421230002",
+    "date": "Tue, 21 Apr 2026 23:00:30 +0800 (HKT)",
+    "category": "general",
+    "priority": "low",
+    "summary": "关于活跃预订列表的通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:22:38.615756",
+    "replied": false
+  },
+  {
+    "id": "1000",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@trustindex.io",
+    "sender_name": "Trustindex",
+    "subject": "You've got a new review!",
+    "date": "Tue, 21 Apr 2026 16:13:33 +0000",
+    "category": "review",
+    "priority": "low",
+    "summary": "收到新的客户评价通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:22:41.895641",
+    "replied": false
+  },
+  {
+    "id": "1001",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260422080002",
+    "date": "Wed, 22 Apr 2026 08:00:29 +0800 (HKT)",
+    "category": "general",
+    "priority": "low",
+    "summary": "关于活跃预订列表的通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:23:13.149421",
+    "replied": false
+  },
+  {
+    "id": "1002",
+    "account": "lucas@airport-taxi.com",
+    "from": "mianfei@office.163.com",
+    "sender_name": "外贸营销专家",
+    "subject": "告别“大海捞针”找客户，外贸拓客Agent直接交付潜客实时会话",
+    "date": "Wed, 22 Apr 2026 10:38:04 +0800 (GMT+08:00)",
+    "category": "partner",
+    "priority": "low",
+    "summary": "推广外贸获客Agent服务信息",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:23:16.525085",
+    "replied": false
+  },
+  {
+    "id": "1003",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Arriane has requested for a guide in Tokyo from 05-Jun-2026 To 06-Jun-2026",
+    "date": "Wed, 22 Apr 2026 03:19:36 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Arriane请求6月5-6日在东京导游",
+    "extracted_info": {
+      "passenger_name": "Arriane",
+      "pickup_date": "05-Jun-2026",
+      "destination": "Tokyo",
+      "pickup_date_end": "06-Jun-2026"
+    },
+    "processed_at": "2026-04-22T10:23:21.435220",
+    "replied": false
+  },
+  {
+    "id": "1005",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Michel has requested for a guide in Kagoshima and Japan on 30-May-2026",
+    "date": "Wed, 22 Apr 2026 03:53:30 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Michel请求2026年5月30日在鹿儿岛导游",
+    "extracted_info": {
+      "passenger_name": "Michel",
+      "pickup_date": "30-May-2026",
+      "pickup_location": "Kagoshima, Japan"
+    },
+    "processed_at": "2026-04-22T10:23:26.165764",
+    "replied": false
+  },
+  {
+    "id": "1006",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260422120001",
+    "date": "Wed, 22 Apr 2026 12:00:30 +0800 (HKT)",
+    "category": "general",
+    "priority": "low",
+    "summary": "活跃预订列表通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:23:46.117153",
+    "replied": false
+  },
+  {
+    "id": "1007",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Nolwenn has requested for a guide in Shanghai on 25-Apr-2026",
+    "date": "Wed, 22 Apr 2026 05:02:21 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Nolwenn请求2026年4月25日上海导游",
+    "extracted_info": {
+      "passenger_name": "Nolwenn",
+      "pickup_location": "Shanghai",
+      "pickup_date": "25-Apr-2026"
+    },
+    "processed_at": "2026-04-22T10:23:50.253598",
+    "replied": false
+  },
+  {
+    "id": "1008",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Johanne has requested for a guide in Singapore on 07-May-2026",
+    "date": "Wed, 22 Apr 2026 05:05:48 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "新导游机会，2026年5月7日新加坡",
+    "extracted_info": {
+      "passenger_name": "Johanne",
+      "pickup_date": "07-May-2026",
+      "pickup_location": "Singapore"
+    },
+    "processed_at": "2026-04-22T10:23:55.307669",
+    "replied": false
+  },
+  {
+    "id": "1009",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Mickella  has requested for a guide in Guangzhou and Shenzhen from 23-Apr-2026\r\n To 24-Apr-2026",
+    "date": "Wed, 22 Apr 2026 05:15:10 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Mickella请求广州和深圳导游服务",
+    "extracted_info": {
+      "passenger_name": "Mickella",
+      "pickup_date": "23-Apr-2026",
+      "destination": "Guangzhou and Shenzhen",
+      "pickup_date_end": "24-Apr-2026"
+    },
+    "processed_at": "2026-04-22T10:23:59.912976",
+    "replied": false
+  },
+  {
+    "id": "1012",
+    "account": "lucas@airport-taxi.com",
+    "from": "no-reply@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Non-Compliant Vehicles",
+    "date": "Wed, 22 Apr 2026 09:38:20 +0000 (UTC)",
+    "category": "partner",
+    "priority": "high",
+    "summary": "存在指派车辆不合规，需重新指派",
+    "extracted_info": {
+      "driver_name": "姜 小涛",
+      "driver_id": "20173",
+      "assigned_car_plate": "7007",
+      "car_color": "Black",
+      "car_type": "Toyota Alphard",
+      "driver_tel": "81-7085089919",
+      "bk_ref_id": "CHQ385342",
+      "driver_type": "external"
+    },
+    "processed_at": "2026-04-22T10:24:08.059048",
+    "replied": true,
+    "reply_sent_at": "2026-04-22T10:24:24.784911"
+  },
+  {
+    "id": "964",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:47 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "30-seater (for 29 people + driver) · Kyoto · 10 hours",
+      "passenger_count": 29
+    },
+    "processed_at": "2026-04-22T10:24:51.192393",
+    "replied": false
+  },
+  {
+    "id": "965",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:53 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:24:56.746664",
+    "replied": false
+  },
+  {
+    "id": "965",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:53 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪租车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:24:57.737272",
+    "replied": false
+  },
+  {
+    "id": "966",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "passenger_count": 29,
+      "package_name": "30-seater (for 29 people + driver)  · Kyoto + Nara · 10 hours"
+    },
+    "processed_at": "2026-04-22T10:25:01.422939",
+    "replied": false
+  },
+  {
+    "id": "966",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "30-seater (for 29 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 29
+    },
+    "processed_at": "2026-04-22T10:25:03.214991",
+    "replied": false
+  },
+  {
+    "id": "967",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:05 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "21-seater (for 20 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 20
+    },
+    "processed_at": "2026-04-22T10:25:05.832626",
+    "replied": false
+  },
+  {
+    "id": "967",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:05 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "21-seater (for 20 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 20
+    },
+    "processed_at": "2026-04-22T10:25:09.226494",
+    "replied": false
+  },
+  {
+    "id": "968",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:11 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:25:10.289163",
+    "replied": false
+  },
+  {
+    "id": "969",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:40 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "8 Hour Private Car Charter",
+      "unit_name": "7 Seater (Group of 1-6)",
+      "ticket_id": "511877"
+    },
+    "processed_at": "2026-04-22T10:25:14.034635",
+    "replied": false
+  },
+  {
+    "id": "968",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:11 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:25:14.063228",
+    "replied": false
+  },
+  {
+    "id": "970",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:47 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "10 Hour Private Car Charter",
+      "ticket_id": "511903"
+    },
+    "processed_at": "2026-04-22T10:25:17.536575",
+    "replied": false
+  },
+  {
+    "id": "969",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:40 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "8 Hour Private Car Charter",
+      "unit_name": "7 Seater (Group of 1-6)",
+      "ticket_id": "511877"
+    },
+    "processed_at": "2026-04-22T10:25:17.994049",
+    "replied": false
+  },
+  {
+    "id": "965",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:53 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto · 10 hours",
+      "ticket_id": "512016",
+      "activity_id": "15716"
+    },
+    "processed_at": "2026-04-22T10:25:18.695089",
+    "replied": false
+  },
+  {
+    "id": "971",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "ticket_id": "511899",
+      "activity_id": "15719",
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_id": "393853",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_id": "828951681854",
+      "unit_name": "14 Seater (Group 1-12)"
+    },
+    "processed_at": "2026-04-22T10:25:21.841434",
+    "replied": false
+  },
+  {
+    "id": "970",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:47 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "ticket_id": "511903",
+      "activity_id": "15719",
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_id": "393853",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_id": "828951734304",
+      "unit_name": "Child Seat",
+      "sub_category": "Charter - Non-API",
+      "leaf_category": "Customized Charter"
+    },
+    "processed_at": "2026-04-22T10:25:22.398273",
+    "replied": false
+  },
+  {
+    "id": "966",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:26:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "30-seater (for 29 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 29
+    },
+    "processed_at": "2026-04-22T10:25:24.140874",
+    "replied": false
+  },
+  {
+    "id": "972",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:08 +0000 (UTC)",
+    "category": "general",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_name": "10 Seater (Group of 1-9)",
+      "ticket_id": "511894"
+    },
+    "processed_at": "2026-04-22T10:25:25.330470",
+    "replied": false
+  },
+  {
+    "id": "971",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "ticket_id": "511899",
+      "activity_id": "15719",
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_id": "393853",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_id": "828951681854",
+      "unit_name": "14 Seater (Group 1-12)"
+    },
+    "processed_at": "2026-04-22T10:25:25.587003",
+    "replied": false
+  },
+  {
+    "id": "967",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:05 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "21-seater (for 20 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 20
+    },
+    "processed_at": "2026-04-22T10:25:28.205588",
+    "replied": false
+  },
+  {
+    "id": "973",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:16 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_name": "7 Seater (Group of 1-6)",
+      "ticket_id": "511890"
+    },
+    "processed_at": "2026-04-22T10:25:29.065335",
+    "replied": false
+  },
+  {
+    "id": "972",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:08 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "ticket_id": "511894",
+      "activity_id": "15719",
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_id": "393853",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_id": "828951681852",
+      "unit_name": "10 Seater (Group of 1-9)",
+      "sub_category": "Charter - Non-API",
+      "leaf_category": "Customized Charter"
+    },
+    "processed_at": "2026-04-22T10:25:29.821038",
+    "replied": false
+  },
+  {
+    "id": "968",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:27:11 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "租车费用修改已确认",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:25:32.258439",
+    "replied": false
+  },
+  {
+    "id": "974",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:22 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "8 Hour Private Car Charter",
+      "unit_name": "10 Seater (Group of 1-9)",
+      "ticket_id": "511882"
+    },
+    "processed_at": "2026-04-22T10:25:32.846530",
+    "replied": false
+  },
+  {
+    "id": "973",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:16 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_name": "7 Seater (Group of 1-6)",
+      "ticket_id": "511890"
+    },
+    "processed_at": "2026-04-22T10:25:34.433348",
+    "replied": false
+  },
+  {
+    "id": "974",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:29:22 +0000 (UTC)",
+    "category": "booking",
+    "priority": "low",
+    "summary": "租车行程费用修改已确认",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "ticket_id": "511882",
+      "package_name": "8 Hour Private Car Charter",
+      "unit_name": "10 Seater (Group of 1-9)"
+    },
+    "processed_at": "2026-04-22T10:25:37.949467",
+    "replied": false
+  },
+  {
+    "id": "969",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:40 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "租车费用修改已确认",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour",
+      "package_name": "8 Hour Private Car Charter",
+      "unit_name": "7 Seater (Group of 1-6)",
+      "ticket_id": "511877"
+    },
+    "processed_at": "2026-04-22T10:25:39.256864",
+    "replied": false
+  },
+  {
+    "id": "970",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:47 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车服务信息",
+    "extracted_info": {
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_name": "Child Seat",
+      "ticket_id": "511903",
+      "activity_id": "15719",
+      "package_id": "393853",
+      "unit_id": "828951734304"
+    },
+    "processed_at": "2026-04-22T10:25:42.973211",
+    "replied": false
+  },
+  {
+    "id": "971",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Car Rental with Driver to Kyoto\r\n Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from\r\n Kyoto)",
+    "date": "Mon, 20 Apr 2026 09:28:59 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "ticket_id": "511899",
+      "activity_id": "15719",
+      "activity_name": "Car Rental with Driver to Kyoto Imperial Palace/ Nijo Castle/ Kinkaku-ji Customized Tour (Round Trip from Kyoto)",
+      "package_id": "393853",
+      "package_name": "10 Hour Private Car Charter",
+      "unit_id": "828951681854",
+      "unit_name": "14 Seater (Group 1-12)"
+    },
+    "processed_at": "2026-04-22T10:25:46.991038",
+    "replied": false
+  },
+  {
+    "id": "915",
+    "account": "lucas@airport-taxi.com",
+    "from": "no-reply@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "[13,Apr-19,Apr][Weekly Report] Merchant Service Performance and\r\n Driver App Usage",
+    "date": "Mon, 20 Apr 2026 02:01:24 +0000 (UTC)",
+    "category": "partner",
+    "priority": "medium",
+    "summary": "合作伙伴服务表现及司机应用使用报告",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:30:00.885102",
+    "replied": false
+  },
+  {
+    "id": "916",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Keith has requested for a guide in Mount Fuji, Nikkō and Tokyo from 02-Nov-2026 To 13-Nov-2026",
+    "date": "Mon, 20 Apr 2026 02:08:07 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Keith请求富士山等地导游服务",
+    "extracted_info": {
+      "passenger_name": "Keith",
+      "pickup_date": "02-Nov-2026",
+      "destination": "Mount Fuji, Nikkō and Tokyo",
+      "pickup_date_end": "13-Nov-2026"
+    },
+    "processed_at": "2026-04-22T10:30:04.424983",
+    "replied": false
+  },
+  {
+    "id": "917",
+    "account": "lucas@airport-taxi.com",
+    "from": "no-reply@osome.com",
+    "sender_name": "Osome",
+    "subject": "MOVE GLOBAL Pte. Ltd.: 您收到一条新消息",
+    "date": "Mon, 20 Apr 2026 02:20:53 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "等待关于Airwallex授权信的回复",
+    "extracted_info": {
+      "passenger_name": "HONGSHENG"
+    },
+    "processed_at": "2026-04-22T10:30:07.828845",
+    "replied": false
+  },
+  {
+    "id": "918",
+    "account": "lucas@airport-taxi.com",
+    "from": "mianfei@office.163.com",
+    "sender_name": "外贸营销专家",
+    "subject": "展会采购商库已更新，都是精准客户，外贸人速看>>",
+    "date": "Mon, 20 Apr 2026 10:44:55 +0800 (GMT+08:00)",
+    "category": "general",
+    "priority": "low",
+    "summary": "推广展会采购商数据库信息",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:30:11.045137",
+    "replied": false
+  },
+  {
+    "id": "919",
+    "account": "lucas@airport-taxi.com",
+    "from": "noreply@goodjourney.io",
+    "sender_name": "noreply@goodjourney.io",
+    "subject": "Active Booking: 20260420120002",
+    "date": "Mon, 20 Apr 2026 12:00:28 +0800 (HKT)",
+    "category": "general",
+    "priority": "low",
+    "summary": "关于活跃预订列表的通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:30:23.375754",
+    "replied": false
+  },
+  {
+    "id": "920",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Michel has requested for a guide in Osaka from 02-Jun-2026 To 03-Jun-2026",
+    "date": "Mon, 20 Apr 2026 07:19:22 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Michel请求6月2-3日在大阪导游",
+    "extracted_info": {
+      "passenger_name": "Michel",
+      "pickup_location": "Osaka",
+      "pickup_date": "2026-06-02",
+      "destination": "Osaka",
+      "pickup_date_end": "2026-06-03"
+    },
+    "processed_at": "2026-04-22T10:30:28.327449",
+    "replied": false
+  },
+  {
+    "id": "921",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Faiz has requested for a guide in Tokyo on 17-May-2026",
+    "date": "Mon, 20 Apr 2026 07:54:36 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "Faiz请求2026年5月17日在东京导游",
+    "extracted_info": {
+      "passenger_name": "Faiz",
+      "pickup_date": "17-May-2026",
+      "pickup_location": "Tokyo"
+    },
+    "processed_at": "2026-04-22T10:30:32.700566",
+    "replied": false
+  },
+  {
+    "id": "922",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@tourhq.com",
+    "sender_name": "tourHQ",
+    "subject": "Raju has requested for a guide in Tokyo, Kyoto and Osaka from 15-Oct-2026 To\r\n 25-Oct-2026",
+    "date": "Mon, 20 Apr 2026 08:05:14 +0000",
+    "category": "partner",
+    "priority": "low",
+    "summary": "东京、京都、大阪导游机会通知",
+    "extracted_info": {
+      "passenger_name": "Raju",
+      "pickup_location": "Tokyo, Kyoto, Osaka",
+      "pickup_date": "15-Oct-2026 to 25-Oct-2026"
+    },
+    "processed_at": "2026-04-22T10:30:37.265932",
+    "replied": false
+  },
+  {
+    "id": "923",
+    "account": "lucas@airport-taxi.com",
+    "from": "do-not-reply@notification.getyourguide.com",
+    "sender_name": "GetYourGuide",
+    "subject": "A booking has been canceled - S460918 - GYGLMR4KWMRM",
+    "date": "Mon, 20 Apr 2026 08:08:58 +0000 (UTC)",
+    "category": "booking",
+    "priority": "medium",
+    "summary": "预订已取消通知",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:30:40.429029",
+    "replied": false
+  },
+  {
+    "id": "924",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:12:49 +0000 (UTC)",
+    "category": "general",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "passenger_count": 29,
+      "package_name": "30-seater (for 29 people + driver)",
+      "duration": "10 hours"
+    },
+    "processed_at": "2026-04-22T10:30:44.391624",
+    "replied": false
+  },
+  {
+    "id": "925",
+    "account": "lucas@airport-taxi.com",
+    "from": "support@trustindex.io",
+    "sender_name": "Trustindex",
+    "subject": "You've got a new review!",
+    "date": "Mon, 20 Apr 2026 09:13:22 +0000",
+    "category": "review",
+    "priority": "medium",
+    "summary": "收到大量新评价，需及时回复",
+    "extracted_info": {},
+    "processed_at": "2026-04-22T10:30:47.678968",
+    "replied": false
+  },
+  {
+    "id": "926",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:14:02 +0000 (UTC)",
+    "category": "booking",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "21-seater (for 20 people + driver) · Wakayama + Shirahama · 10 hours",
+      "passenger_count": 20
+    },
+    "processed_at": "2026-04-22T10:30:53.537041",
+    "replied": false
+  },
+  {
+    "id": "927",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:15:01 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "10-seater (for 9 people + driver) · Wakayama + Shirahama · 10 hours",
+      "passenger_count": 9
+    },
+    "processed_at": "2026-04-22T10:30:57.637785",
+    "replied": false
+  },
+  {
+    "id": "928",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:15:08 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "passenger_count": 13,
+      "pickup_location": "Osaka",
+      "destination": "Nara/ Kobe/ Kyoto"
+    },
+    "processed_at": "2026-04-22T10:31:02.543145",
+    "replied": false
+  },
+  {
+    "id": "929",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:15:20 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Wakayama + Shirahama · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:31:07.033154",
+    "replied": false
+  },
+  {
+    "id": "930",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:19:00 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "21-seater (for 20 people + driver) · Lake Biwa · 10 hours",
+      "ticket_id": "512068",
+      "activity_id": "15716"
+    },
+    "processed_at": "2026-04-22T10:31:11.039334",
+    "replied": false
+  },
+  {
+    "id": "931",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:19:14 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "14-seater (for 13 people + driver) · Lake Biwa · 10 hours",
+      "passenger_count": 13
+    },
+    "processed_at": "2026-04-22T10:31:14.885884",
+    "replied": false
+  },
+  {
+    "id": "932",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:19:29 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "10-seater (for 9 people + driver) · Lake Biwa · 10 hours",
+      "passenger_count": 9
+    },
+    "processed_at": "2026-04-22T10:31:20.871750",
+    "replied": false
+  },
+  {
+    "id": "933",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:19:36 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Lake Biwa · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:31:24.842250",
+    "replied": false
+  },
+  {
+    "id": "934",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:19:47 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "passenger_count": "20",
+      "package_name": "21-seater (for 20 people + driver)",
+      "duration": "10 hours"
+    },
+    "processed_at": "2026-04-22T10:31:31.065290",
+    "replied": false
+  },
+  {
+    "id": "935",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:20:57 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Awaji Island · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:31:44.801413",
+    "replied": false
+  },
+  {
+    "id": "936",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:21:03 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪租车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Amanohashidate + Funaya · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:31:50.143913",
+    "replied": false
+  },
+  {
+    "id": "937",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:21:18 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪租车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Kyoto + Kobe · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:31:55.221732",
+    "replied": false
+  },
+  {
+    "id": "938",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:21:31 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Kyoto · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:31:59.443697",
+    "replied": false
+  },
+  {
+    "id": "939",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:21:37 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，含租车服务信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:32:03.723332",
+    "replied": false
+  },
+  {
+    "id": "940",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:21:44 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "租车费用修改已确认",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Nara + Mount Yoshin · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:32:07.479666",
+    "replied": false
+  },
+  {
+    "id": "941",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:21:56 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，包含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "7-seater (for 6 people + driver) · Osaka Downtown · 10 hours",
+      "passenger_count": 6
+    },
+    "processed_at": "2026-04-22T10:32:11.785861",
+    "replied": false
+  },
+  {
+    "id": "942",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:22:42 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "passenger_count": 9,
+      "package_name": "10-seater (for 9 people + driver) · Osaka Downtown · 10 hours"
+    },
+    "processed_at": "2026-04-22T10:32:18.094145",
+    "replied": false
+  },
+  {
+    "id": "943",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:22:49 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪包车租赁费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "10-seater (for 9 people + driver) · Nara + Mount Yoshin · 10 hours",
+      "passenger_count": 9
+    },
+    "processed_at": "2026-04-22T10:32:22.153589",
+    "replied": false
+  },
+  {
+    "id": "944",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:22:54 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "费用修改已确认，含包车信息",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "10-seater (for 9 people + driver) · Kyoto + Nara · 10 hours",
+      "passenger_count": 9
+    },
+    "processed_at": "2026-04-22T10:32:27.257824",
+    "replied": false
+  },
+  {
+    "id": "945",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:23:00 +0000 (UTC)",
+    "category": "finance",
+    "priority": "low",
+    "summary": "确认大阪租车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "10-seater (for 9 people + driver) · Kyoto · 10 hours",
+      "passenger_count": 9
+    },
+    "processed_at": "2026-04-22T10:32:31.493778",
+    "replied": false
+  },
+  {
+    "id": "946",
+    "account": "lucas@airport-taxi.com",
+    "from": "merchant@klook.com",
+    "sender_name": "Klook.com",
+    "subject": "Cost modification validated - Osaka Car Rental with Driver to Nara/\r\n Kobe/ Kyoto",
+    "date": "Mon, 20 Apr 2026 09:23:06 +0000 (UTC)",
+    "category": "finance",
+    "priority": "medium",
+    "summary": "确认大阪包车费用修改",
+    "extracted_info": {
+      "activity_name": "Osaka Car Rental with Driver to Nara/ Kobe/ Kyoto",
+      "package_name": "10-seater (for 9 people + driver) · Kyoto + Kobe · 10 hours",
+      "passenger_count": 9
+    },
+    "processed_at": "2026-04-22T10:32:35.972477",
+    "replied": false
+  }
+]
